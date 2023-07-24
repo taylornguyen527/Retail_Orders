@@ -5,10 +5,15 @@ The analyst from CoModa will extract non-identified details from new customers t
 
 # Project scope
 _ Defining the needs of the business: purchase patterns and retention prediction for customers acquired from promotion campaigns.
+
 _ Defining the target: customers who never purchase before 2022, with the first order containing a discount from Jan to June 2022.
+
 _ Defining the data extraction: all the target first orders details: total values, discount, quantity, products, customer DOB.
-_ Data validation and cleaning: anomalies examination, language, and dollar conversion,
+
+_ Data validation and cleaning: anomalies examination, language, and dollar conversion.
+
 _ Data transformation and analysis: aggregate the details of each customer before retention analysis.
+
 _ Clustering and retention prediction: machine learning models (unsupervised and unsupervised).
 
 # Usage
