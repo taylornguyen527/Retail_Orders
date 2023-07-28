@@ -18,5 +18,7 @@ _ Clustering and retention prediction: machine learning models (unsupervised and
 
 # Usage
 _ The dataset can be found here: https://github.com/tuananhnguyen527/Retail_Orders/blob/main/Retails.txt
+
 _ The full analysis: https://github.com/tuananhnguyen527/Retail_Orders/blob/main/Retails_Retention_prediction.ipynb
+
 _ The machine learning background: updating.
